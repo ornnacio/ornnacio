@@ -14,5 +14,8 @@ i'm a 17 year old from brazil who likes coding, currently studying at the Federa
 stats:  
 [![stats](https://github-readme-stats.vercel.app/api?username=ornnacio)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ornnacio)](https://github.com/anuraghazra/github-readme-stats)
+
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ornnacio)](https://github.com/anuraghazra/github-readme-stats)  
-(laravel projects are all css majority, i actually suck at it, the stats are a lie)
+(laravel projects are all css majority, i actually suck at it, the stats are a lie)  
+stats are all provided by github-readme-stats, click any of the cards to go to the repo :)
