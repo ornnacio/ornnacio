@@ -1,6 +1,6 @@
 # hi :)
 
-i'm a 17 year old from brazil who likes coding, currently studying at the Federal Institute of Santa Catarina  
+i'm a 18 year old cs student from brazil who likes coding, currently studying at Unochapecó  
 
 ### things i'm okay at: 
 - [![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react&link=https://github.com/ornnacio/)](https://github.com/ornnacio/) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/ornnacio/)](https://github.com/ornnacio/) [![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&link=https://github.com/ornnacio/)](https://github.com/ornnacio/) [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&link=https://github.com/ornnacio/)](https://github.com/ornnacio/)
